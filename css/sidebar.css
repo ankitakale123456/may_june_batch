@@ -1,0 +1,24 @@
+.sidebar{
+    width:100px;
+    height: 1000px;
+    position: relative;
+    border: 1px solid green;
+    background-color: aqua;
+    z-index: 1;
+}
+
+.stcky{
+    position: sticky;
+    width: 1132px;
+    border: 1px solid black;
+    top: 0;
+    background-color: rgb(12, 53, 165);
+    z-index: 2;
+}
+
+.container{
+    top:11px;
+    left: 108px;
+    position: absolute;
+    padding: 5px 5px;
+}

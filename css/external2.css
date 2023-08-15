@@ -1,0 +1,24 @@
+h1{
+    color: aqua;
+}
+p{
+    color: blue;
+}
+.container{
+    color: brown;
+
+}
+
+.address-container {
+    color: #ff00eb;
+    background-color: black;
+    font-size: 35px;
+    width: 246px;
+    height: 84px;
+    border: 1px;
+    padding: 30px;
+    border-radius: 126px;
+}
+.name{
+    color:blue
+}

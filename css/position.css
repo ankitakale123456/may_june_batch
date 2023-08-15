@@ -1,0 +1,41 @@
+.pos{
+    border: 1px solid black;
+    height : 100px ;
+    width: 100px
+}
+.rel {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        border: 1px solid black;
+        left: 189px;
+        top: 2;
+    }
+
+    .absol {
+        position: absolute;
+        height: 50px;
+        width: 50px;
+        border: 2px solid black;
+        left: 231px;
+        top: 0;
+    }
+
+    .stcky{
+        position: sticky;
+        width: 1132px;
+        border: 1px solid black;
+        top: 0;
+        background-color: aquamarine;
+    }
+    
+    .foot{
+         position:fixed;
+        width: 1500px;
+        height: 30px;
+        border: 1px solid black;
+        bottom: 0;
+        background-color:rgb(39, 233, 0)
+
+    }
+    

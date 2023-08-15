@@ -1,0 +1,22 @@
+.disp1{
+display: none;
+}
+
+.disp2{
+    display: inline;
+}
+
+.disp3{
+    display: block;
+    border: 1px dotted;
+    background-color: indianred;
+    width: 150px;
+}
+
+
+.disp4{
+    display: inline-block;
+    border: 1px dotted;
+    background-color:crimson;
+    width: 150px;
+}

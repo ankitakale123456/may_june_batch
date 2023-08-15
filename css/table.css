@@ -1,0 +1,18 @@
+/* class selector */
+.table-main{
+    border: 1px solid orangered;
+    border-collapse: collapse;
+    font-size: 29px;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+/* grouping of element selector */
+table,tr,th,td{
+    border: 1px solid orangered;
+    border-collapse: collapse;
+    font-size: 29px;
+    background-color: aquamarine;
+    text-align: center;
+
+}

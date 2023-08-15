@@ -1,0 +1,30 @@
+div p:hover{
+    background-color: aquamarine;
+}
+
+span:hover{
+    color: red;
+}
+
+h1:hover{
+    background-color: chartreuse;
+    width: 180px;
+} 
+
+a:active{
+    color:blue;
+}
+
+P::first-letter{
+    color: blueviolet;
+    font-size: 50PX;
+}
+
+div::first-line{
+    color: aqua;
+}
+
+h2::selection{
+    color:yellow;
+    background-color:chartreuse;
+}

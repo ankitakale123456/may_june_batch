@@ -1,0 +1,32 @@
+.text-align{
+    border: 1px solid black;
+    width: 250px;
+    text-align: center;
+    margin:auto;
+    margin-top: 175px;
+
+}
+
+.text-shadow{
+    text-shadow: 3px 4px 2px red;
+    font-size: 30px;
+
+}
+.box-shadow{
+    box-shadow: 3px 3px 3px rgb(2, 63, 35);
+    width: 125px;
+    height:100px;
+    border: 1px solid rgb(226, 19, 216);
+    background-color: aqua;
+
+}
+
+.text-tranform{
+    text-transform: capitalize;
+}
+.text-overflow{
+    width: 40;
+    border: 1px solid blue;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
